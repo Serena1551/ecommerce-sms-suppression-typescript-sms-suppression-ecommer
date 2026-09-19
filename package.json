@@ -1,0 +1,8 @@
+{
+  "name": "ecommerce-sms-suppression-typescript",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"demo": "tsx src/order_updates.ts", "test": "tsx src/order_updates.test.ts"},
+  "dependencies": {"zod": "^3.23.8"},
+  "devDependencies": {"tsx": "^4.19.0", "typescript": "^5.6.0"}
+}
